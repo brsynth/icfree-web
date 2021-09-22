@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://icfree.org/"
 languageCode = "en-us"
 title = "iCFree"
 theme = "minimal"
@@ -6,16 +6,11 @@ disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
     description = "Improved cell-free systems to accelerate therapeutic proteins production at minimal cost"
-    githubUsername = "#"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [module]
     [[module.mounts]]
