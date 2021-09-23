@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://icfree.org/home/</loc>
+    <loc>https://icfree.org/home/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://icfree.org/news/</loc>
+    <loc>https://icfree.org/news/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://icfree.org/partners/</loc>
+    <loc>https://icfree.org/partners/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://icfree.org/categories/</loc>
+    <loc>https://icfree.org/categories/</loc>
   </url><url>
-    <loc>http://icfree.org/</loc>
+    <loc>https://icfree.org/</loc>
   </url><url>
-    <loc>http://icfree.org/tags/</loc>
+    <loc>https://icfree.org/tags/</loc>
   </url>
 </urlset>
