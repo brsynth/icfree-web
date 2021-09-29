@@ -2,7 +2,7 @@ Source code for [icfree.org](https://icfree.org). The website was built using [H
 
 # Important Hugo command lines
 
-Run the server to access the website
+After a git clone, run the server to access the website
 ~~~
 hugo server -D
 ~~~
