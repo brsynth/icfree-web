@@ -1,4 +1,4 @@
-baseURL = "http://icfree.org/"
+baseURL = "https://icfree.org/"
 languageCode = "en-us"
 title = "iCFree"
 theme = "minimal"
