@@ -9,7 +9,7 @@
       <img src="/img/exposome.png" class="card-img-top">
       <div class="card-body">
         <a href="https://exposomes.sciencesconf.org/"><h5 class="card-title">Exposome conference</h5></a>
-        <p class="card-text" align="justify">We organized the <i>in vitro</i> biosensors session at the Exposome conference to highlight the latest cutting-edge developments in cell-free technology</p>
+        <p class="card-text" align="justify">Micalis organized the <i>in vitro</i> biosensors session at the Exposome conference to highlight the latest cutting-edge developments in cell-free technology</p>
       </div>
     </div>
 
