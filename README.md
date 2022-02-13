@@ -9,7 +9,7 @@ Clone repository
 git clone https://github.com/brsynth/icfree-web.git
 ~~~
 
-Install Hugo by following the isntructions here: https://gohugo.io/getting-started installing/
+Install Hugo by following the isntructions here: https://gohugo.io/getting-started/installing/
 
 Run the server to access the website
 
