@@ -34,9 +34,9 @@
 <div>
   <div class="card mb-3">
     <div class="card">
-      <img src="/img/bioRxiv.png" class="card-img-top">
+      <img src="/img/acspublications.png" class="card-img-top">
       <div class="card-body">
-        <a href="https://www.biorxiv.org/content/10.1101/2021.09.07.459228v2"><h5 class="card-title">bioRxiv preprint</h5></a>
+        <a href="https://pubs.acs.org/doi/10.1021/acssynbio.1c00448"><h5 class="card-title">Go to publication</h5></a>
         <p class="card-text" align="justify">In their recent study, Micalis showed that lysate-based cell-free systems can be optimzed to use linear DNA with near-plasmid levels of expression</p>
       </div>
     </div>
