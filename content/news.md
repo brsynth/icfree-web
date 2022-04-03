@@ -1,4 +1,5 @@
 #
+
 ---
 
 {{< rawhtml >}}
@@ -42,6 +43,22 @@
     </div>
 
 </div>
+
+<br>
+
+<div>
+  <div class="card mb-3">
+    <div class="card">
+      <img src="/img/france-bioproduction.jpg" class="card-img-top">
+      <div class="card-body">
+        <a href="https://www.france-bioproduction.com/programme/"><h5 class="card-title">Learn more</h5></a>
+        <p class="card-text" align="justify">Micalis, Synthelis and I2BC attend the "France Bioproduction" congress</p>
+      </div>
+    </div>
+
+</div>
+
+<br>
 
 {{< /rawhtml >}}
 ---
