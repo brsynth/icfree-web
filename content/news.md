@@ -27,6 +27,7 @@
 </div>
 
 <br>
+<hr>
 
 <div>
   <div class="card mb-3">
@@ -40,6 +41,7 @@
 </div>
 
 <br>
+<hr>
 
 <div>
   <div class="card mb-3">
@@ -51,7 +53,9 @@
       </div>
     </div>
 </div>
+
 <br>
+<hr>
 
 <div>
   <div class="card mb-3">
