@@ -4,6 +4,18 @@
 
 {{< rawhtml >}}
 
+<h1 align="center">News from the iCFree consortium</h1>
+
+{{< /rawhtml >}}
+
+---
+
+{{< rawhtml >}}
+
+
+<br>
+
+
 <div>
   <div class="card mb-3">
     <div class="card">
@@ -13,7 +25,6 @@
         <p class="card-text" align="justify">Micalis organized the <i>in vitro</i> biosensors session at the Exposome conference to highlight the latest cutting-edge developments in cell-free technology</p>
       </div>
     </div>
-
 </div>
 
 <br>
@@ -27,7 +38,6 @@
         <p class="card-text" align="justify">As part of their outreach strategy, Synthelis created a series of mythbusters about Cell-free expression systems</p>
       </div>
     </div>
-
 </div>
 
 <br>
@@ -41,7 +51,6 @@
         <p class="card-text" align="justify">In their recent study, Micalis showed that lysate-based cell-free systems can be optimzed to use linear DNA with near-plasmid levels of expression</p>
       </div>
     </div>
-
 </div>
 
 <br>
@@ -51,11 +60,10 @@
     <div class="card">
       <img src="/img/france-bioproduction.jpg" class="card-img-top">
       <div class="card-body">
-        <a href="https://www.france-bioproduction.com/programme/"><h5 class="card-title">Learn more</h5></a>
+        <a href="https://www.france-bioproduction.com"><h5 class="card-title">Learn more</h5></a>
         <p class="card-text" align="justify">Micalis, Synthelis and I2BC attend the "France Bioproduction" congress</p>
       </div>
     </div>
-
 </div>
 
 <br>

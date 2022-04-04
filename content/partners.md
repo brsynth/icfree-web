@@ -1,17 +1,20 @@
 #
+
 ---
 
 {{< rawhtml >}}
 
-<p align="justify">
-To fulfill iCFree's ambitious vision, the consortium is made up of 3 research insititutes and 1 SME with complementary expertise in cell-free systems and protein production. Those are some of France's most relevant players in the fields.
-</p>
+<h1 align="center">Members of the iCFree consortium</h1>
 
 {{< /rawhtml >}}
 
 ---
 
+
 {{< rawhtml >}}
+
+<br>
+
 <center> <a href="https://www.micalis.fr/micalis_eng/Micalis-Institute"><img src="/img/micalis.png" width="300" height="125" /></a></center>
 
 <br>
@@ -62,7 +65,7 @@ The <b>CarMeN institute (Inserm, Univ. Claude Bernard Lyon 1)</b> has a strong b
 
 <p align="justify">
 
-The <b>Synthelis</b> is a biotech that offers more than 10 years of expertise in protein production using cell-free systems. To date, the team has successfully produced over 230 difficult-to-express proteins using its cell-free technology.
+<b>Synthelis</b> is a biotech that offers more than 10 years of expertise in protein production using cell-free systems. To date, the team has successfully produced over 230 difficult-to-express proteins using its cell-free technology.
 
 </p>
 
