@@ -21,7 +21,7 @@
       <img src="/img/france-bioproduction.jpg" class="card-img-top">
       <div class="card-body">
         <a href="https://www.france-bioproduction.com"><h5 class="card-title">Learn more</h5></a>
-        <p class="card-text" align="justify">Micalis, Synthelis and I2BC attend the "France Bioproduction" congress</p>
+        <p class="card-text" align="justify">Micalis and Synthelis attend the 6th France Bioproduction Congress</p>
       </div>
     </div>
 </div>
