@@ -10,7 +10,14 @@
 ---
 
 {{< rawhtml >}}
-<center><img src="/img/investir_avenir.png" width="130" height="130" /></center>
+  <div class="grid grid-cols-1 py-12 gap-x-8 sm:grid-cols-2">
+    <div>
+    <center>
+    <img src="/img/investir_avenir.png" width="130" height="130" />
+    <img src="/img/defi-biodmedicaments-logo.png" width="140" height="150" />
+    </center>
+    </div>
+  </div>
 
 <br>
 
