@@ -12,6 +12,18 @@
 
 {{< rawhtml >}}
 
+<br>
+
+<div>
+  <div class="card mb-3">
+    <div class="card">
+      <img src="/img/nature-communications.svg" class="card-img-top" width="550">
+      <div class="card-body">
+        <a href="https://www.nature.com/articles/s41467-022-31245-z"><h5 class="card-title">Go To Publication</h5></a>
+        <p class="card-text" align="justify">The iCFree project featured in a recent publication introducing a versatile active learning workflow for optimization of genetic and metabolic networks</p>
+      </div>
+    </div>
+</div>
 
 <br>
 
